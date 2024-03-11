@@ -1,0 +1,65 @@
+{
+    "intemts":[
+        {
+            "tag": "greeting",
+            "patterns":[
+                "Hi",
+                "Hello",
+                "Hi there",
+                "Good Day"
+            ],
+            "responses":[
+                "Hi",
+                "Hello",
+                "Hi there",
+                "Good Day"
+            ]
+        },
+        {
+            "tag": "goodbye",
+            "patterns":[
+                "Bye",
+                "Good Bye",
+                "再見"
+            ],
+            "responses":[
+                "Bye",
+                "Good Bye",
+                "再見"
+            ]
+        },
+        {
+            "tag": "thanking",
+            "patterns":[
+                "Thanks",
+                "Thx",
+                "Ths"
+            ],
+            "responses":[
+                "There is no need for thanking"
+            ]
+        },
+        {
+            "tag": "funny",
+            "patterns":[
+                "Tell me a joke",
+                "Give me joke",
+                "I need one joke"
+            ],
+            "responses":[
+                "Your live maybe i don't know",
+                "What do you call an angry carrot? A steamed veggie",
+                "What would bears be without bees? Ears"
+            ]
+        },
+        {
+            "tag": "chiken",
+            "patterns":[
+                "Chiken"
+            ],
+            "responses":[
+                "Only Chiken I know, is Karlo, or you want a chiki nugets?"
+            ]
+        }
+    ]
+}
