@@ -7,7 +7,7 @@ import GonginsServerLib
 
 #Data Varibels
 
-BOT_TOKEN = "MTE4NDc4Nzg0OTg4MzY5MzA5Nw.GnJpul.o2w6FgzU2FwRR-91OjpV_0zgw5gqZxsTWOXIvM"
+BOT_TOKEN = ""
 CHANNEL_ID = jedid = 1181491021595549709
 
 
