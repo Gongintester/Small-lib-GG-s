@@ -9,7 +9,7 @@ from nextcord import ButtonStyle, Interaction, Intents, SlashOption
 from nextcord.ui import Button, View
 
 #Data Varibels for a bot
-
+BOT_TOKEN = ""
 
 #Data for Intets
 intents = Intents.default()
